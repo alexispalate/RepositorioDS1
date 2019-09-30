@@ -12,8 +12,9 @@ public class Repositorio {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        //Autor: Alexis Palate
+        //Autor: Alexis
         System.out.println("Hola mundo xD");
+        System.out.println("Ejemplo de Repositorio Para Github");
         
     }
     
